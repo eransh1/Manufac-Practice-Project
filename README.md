@@ -3,7 +3,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-### `yarn install` for adding dependencies, then
+### `yarn install` or `npm install` for adding dependencies, then
 ### `yarn start`
 
 ## Bar Chart Image
