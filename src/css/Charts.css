@@ -1,0 +1,19 @@
+#charts{
+    padding: 4rem;
+    position: relative;
+    padding-top: 1.5rem;
+}
+.colorIntensityText{
+    position: absolute;
+    bottom: 0;
+    left: 40%;   
+}
+.scater-chart-label{
+    margin-bottom: 4.5rem;
+}
+.hueText{
+position: absolute;
+transform: rotate(270deg);
+left: 1rem;
+top: 40%;
+}
